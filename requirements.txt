@@ -1,2 +1,3 @@
 func-adl-servicex~=1.0.2
+coffea~=0.6.46
 git+https://github.com/matthewfeickert/heputils.git
