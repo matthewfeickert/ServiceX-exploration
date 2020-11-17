@@ -1,3 +1,4 @@
 func-adl-servicex~=1.0.2
 coffea~=0.6.46
 git+https://github.com/matthewfeickert/heputils.git
+git+https://github.com/gordonwatts/servicex-coffea-multiprocessing.git@0.1.0
